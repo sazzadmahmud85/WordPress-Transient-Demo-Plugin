@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Transient Demo
+Plugin Name: WordPress Transient Demo
 Plugin URI: https://github.com/sazzadmahmud85
 Description: Demonstration of transient API
 Version: 1.0.0
